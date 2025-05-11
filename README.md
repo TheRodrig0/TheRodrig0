@@ -33,6 +33,8 @@
 
 ## Github stats:
 
-![TheRodrig0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheRodrig0&theme=vue-dark&hide_border=true)
-![TheRodrig0's Stats](https://github-readme-stats.vercel.app/api?username=TheRodrig0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![TheRodrig0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRodrig0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRodrig0&theme=vue-dark&hide_border=true" style="width: auto; height: 30%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheRodrig0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: auto; height: 30%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRodrig0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="width: auto; height: 30%;">
+</div>
