@@ -33,8 +33,8 @@
 
 ## Github stats:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRodrig0&theme=vue-dark&hide_border=true" style="flex-basis: 45%; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheRodrig0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="flex-basis: 45%; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRodrig0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="flex-basis: 45%; height: auto;">
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRodrig0&theme=vue-dark&hide_border=true" style="width: 45%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheRodrig0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 45%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRodrig0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="width: 45%; height: auto;">
 </div>
