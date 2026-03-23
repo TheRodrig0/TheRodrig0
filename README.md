@@ -4,7 +4,6 @@
 
 <p align="left">
   Atualmente, estudo <strong>Gestão em Tecnologia da Informação</strong>, com foco em análise, desenvolvimento e gerenciamento de sistemas. </br>
-<strong>(Estou ainda passando meus projetos para o GitHub!)</strong>
 </p>
 
 <p align="left">
