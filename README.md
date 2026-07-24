@@ -4,9 +4,7 @@
 
 **Desenvolvedor Backend | PHP • TypeScript • Node.js**
 
-Sou desenvolvedor backend com experiência prática na manutenção de CRMs e na integração de APIs para plataformas de atendimento (WhatsApp, E-mail, SMS). Atualmente, curso Gestão da Tecnologia da Informação na FATEC e busco desafios onde eu possa aplicar e expandir minha stack focada em PHP, Node.js e TypeScript.
-
-Atualmente, curso Gestão da Tecnologia da Informação na FATEC e dedico meus estudos e projetos pessoais à arquiteturas modernas com **TypeScript e Node.js**, stack com a qual busco meu próximo desafio.
+Sou desenvolvedor backend com experiência prática na manutenção de CRMs e na integração de APIs para plataformas de atendimento (WhatsApp, E-mail, SMS). Atualmente, curso Gestão da Tecnologia da Informação na FATEC e busco desafios onde eu possa aplicar e expandir minha stack focada em arquiteturas modernas com PHP, TypeScript e Node.js.
 
 <br>
 
@@ -22,7 +20,6 @@ Atualmente, curso Gestão da Tecnologia da Informação na FATEC e dedico meus e
 
 **Bancos de Dados e ORMs:**
 <br>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -34,6 +31,12 @@ Atualmente, curso Gestão da Tecnologia da Informação na FATEC e dedico meus e
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**🌱 Estudando Atualmente:**
+<br>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <br>
 
