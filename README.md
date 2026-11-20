@@ -43,6 +43,16 @@ Sou desenvolvedor backend com experiência prática na manutenção de CRMs e na
 
 <br>
 
+### 📄 Publicação Acadêmica
+
+- **PONTUA: Aplicação Web para Gestão e Incentivo na Coleta de Notas Fiscais para APAE Caieiras** — *Aurum Editora (e-books), pp. 766–778, 2026*
+  <br>
+  <a href="https://doi.org/10.63330/aurumpub.069-050"><img src="https://img.shields.io/badge/DOI-10.63330%2Faurumpub.069--050-1E7869?style=for-the-badge&logo=doi&logoColor=white" alt="DOI" /></a>
+  <a href="https://aurumpublicacoes.com/index.php/editora/article/view/2679/2987"><img src="https://img.shields.io/badge/Ler_Artigo_(PDF)-EA7349?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Ler Artigo (PDF)" /></a>
+  <a href="https://github.com/TheRodrig0/pontua"><img src="https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório PONTUA" /></a>
+
+<br>
+
 ### 📊 Github Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRodrig0&theme=vue-dark&hide_border=true" width="48%" height="195" alt="GitHub Streak Stats">
